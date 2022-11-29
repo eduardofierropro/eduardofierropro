@@ -10,7 +10,7 @@
 [![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/t4Txush)
 [![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/edfierropro)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro)
-[![colaboración](https://img.shields.io/static/v1?label=&message=MIS%20CURSOS&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
+[![colaboración](https://img.shields.io/static/v1?label=&message=colaboracion&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
 
 
 
