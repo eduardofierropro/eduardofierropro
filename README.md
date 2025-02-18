@@ -15,8 +15,8 @@
 
 
 ## 👉 Sobre mí
-Soy un **Desarrollador Fullstack** y **Profesor en la escuela [Trazos](https://trazos.net/contacto-eduardofierro)** centrado en microanimaciones tanto para páginas web como aplicaciones.
-Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/eduardofierropro)** y **trucos rápidos en [TikTok](http://tiktok.com/@eduardofierro.pro)**
+Soy un **Desarrollador Fullstack** y **Profesor en la escuela [CEI](https://cei.es)** centrado en microanimaciones tanto para páginas web como aplicaciones.
+Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/eduardofierropro)** y **trucos rápidos en [TikTok](http://tiktok.com/@eduardofierro.pro)** 
 
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
